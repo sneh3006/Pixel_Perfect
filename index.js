@@ -17,17 +17,17 @@ var swiper = new Swiper(".mySwiper", {
 //   arrows:false,
 //   infinite: true,
 // });
-// function enable_nav()
-// {
-//   let x=document.getElementById("mobile-nav");
-//   let img=document.getElementById("logo");
-//   if(x.className==="list")
-//   {
-//     x.className+="enable";
-//     img.src="/images/icons/x.svg";
-//   }
-//   else{
-//     x.className="list";
-//     img.src="/images/icons/list.svg"
-//   }
-// }
+function enable_nav()
+{
+  let x=document.getElementById("mobile-nav");
+  let img=document.getElementById("logo");
+  if(x.className==="list")
+  {
+    x.className+="enable";
+    img.src="/images/icons/x.svg";
+  }
+  else{
+    x.className="list";
+    img.src="/images/icons/list.svg"
+  }
+}
