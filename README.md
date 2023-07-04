@@ -7,6 +7,7 @@ The Deployment Given here is on github pages Which does not load custom fonts in
 This is my First Full Responsive Webpage Using Just HTML 5, CSS and JavaScript
 ![image](https://github.com/sneh3006/Pixel_Perfect.io/assets/105777017/dadd92cb-0a5a-47e8-8e63-cc2e51822d24)
 ![image](https://github.com/sneh3006/Pixel_Perfect.io/assets/105777017/f8484fea-9176-431f-b64d-1ef9cdfe9375)
+![image](https://github.com/sneh3006/Pixel_Perfect.io/assets/105777017/fe7b93ac-6a6d-479a-b8ef-67ae7ebc92c6)
 
 This is how the page looks locally 
 
